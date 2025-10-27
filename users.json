@@ -1,0 +1,94 @@
+{
+    "ZenGokuu": {
+        "password": "123",
+        "moods": [
+            {
+                "date": "2025-10-22 18:17",
+                "mood": "\ud83d\ude23 Stressed"
+            },
+            {
+                "date": "2025-10-22 18:17",
+                "mood": "\ud83d\ude0a Happy"
+            },
+            {
+                "date": "2025-10-22 18:17",
+                "mood": "\ud83d\ude0a Happy"
+            },
+            {
+                "date": "2025-10-22 18:26",
+                "mood": "\ud83d\ude34 Tired"
+            },
+            {
+                "date": "2025-10-22 18:29",
+                "mood": "\ud83d\ude23 Stressed"
+            }
+        ],
+        "assessments": [
+            {
+                "date": "2025-10-22 18:28",
+                "score": 10,
+                "sleep": 8,
+                "work": 9,
+                "suggestion": "You seem quite stressed. Take a break or talk to a counselor."
+            },
+            {
+                "date": "2025-10-22 18:29",
+                "score": 10,
+                "sleep": 9,
+                "work": 9,
+                "suggestion": "You seem quite stressed. Take a break or talk to a counselor."
+            }
+        ]
+    },
+    "om": {
+        "password": "123",
+        "moods": [
+            {
+                "date": "2025-10-22 18:31",
+                "mood": "\ud83d\ude14 Sad"
+            },
+            {
+                "date": "2025-10-23 08:01",
+                "mood": "\ud83d\ude34 Tired"
+            },
+            {
+                "date": "2025-10-23 17:24",
+                "mood": "\ud83d\ude0a Happy"
+            }
+        ],
+        "assessments": [
+            {
+                "date": "2025-10-22 18:31",
+                "score": 9,
+                "sleep": 7,
+                "work": 7,
+                "suggestion": "You seem quite stressed. Take a break or talk to a counselor."
+            },
+            {
+                "date": "2025-10-23 08:00",
+                "score": 12,
+                "sleep": 8,
+                "work": 8,
+                "suggestion": "You seem quite stressed. Take a break or talk to a counselor."
+            }
+        ]
+    },
+    "omm": {
+        "password": "123",
+        "moods": [
+            {
+                "date": "2025-10-22 19:08",
+                "mood": "\ud83d\ude10 Neutral"
+            }
+        ],
+        "assessments": [
+            {
+                "date": "2025-10-22 19:08",
+                "score": 14,
+                "sleep": 8,
+                "work": 10,
+                "suggestion": "You seem quite stressed. Take a break or talk to a counselor."
+            }
+        ]
+    }
+}

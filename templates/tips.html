@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block content %}
+<h1 style="text-align:center; margin-bottom:40px;">✨ Mindful Wellness Tips</h1>
+
+<div class="card-grid">
+  {% for tip in tips %}
+  <div class="card">
+    <img src="{{ tip.image }}" alt="{{ tip.title }}">
+    <div class="card-content">
+      <div class="card-title">{{ tip.title }}</div>
+      <div class="card-desc">{{ tip.description }}</div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+{% endblock %}
